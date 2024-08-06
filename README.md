@@ -1,2 +1,2 @@
-# eazy
-az but easy
+# e-AZ-y
+it's `az` but easy
